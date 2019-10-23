@@ -5,7 +5,6 @@
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-keyboard-event-handler": "^1.5.1",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -28,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/oleg-lev-dev/canvas-map.git",
+  "author": "Oleh Levchenko <oleg.levchenko.dev@gmail.com>",
+  "license": "MIT"
 }
